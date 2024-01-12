@@ -1,0 +1,6 @@
+C:\Users\tural\source\repos\First project\First project\bin\Debug\First project.exe
+C:\Users\tural\source\repos\First project\First project\bin\Debug\First project.pdb
+C:\Users\tural\source\repos\First project\First project\obj\Debug\First project.csproj.AssemblyReference.cache
+C:\Users\tural\source\repos\First project\First project\obj\Debug\First project.csproj.CoreCompileInputs.cache
+C:\Users\tural\source\repos\First project\First project\obj\Debug\First project.exe
+C:\Users\tural\source\repos\First project\First project\obj\Debug\First project.pdb
